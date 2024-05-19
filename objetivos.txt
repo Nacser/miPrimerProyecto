@@ -1,1 +1,2 @@
 1. Aprender la lógica de la programación
+2. Saber el funcionamiento de una web y su desarrollo
